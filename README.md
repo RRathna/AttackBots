@@ -1,5 +1,5 @@
 # AttackBots
-Master and Slave bots to carryout server hogging attacks
+Master and Slave bots to carryout DDoS attacks
 
 Programming assignment for Network Design course, CMPE206 under Dr. Juan Gomez, SJSU
 
